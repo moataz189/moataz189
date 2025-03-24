@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Moataz Odeh
 
-<!--
-**moataz189/moataz189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | Full-Stack Developer | Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I’m a Computer Science Graduate and Full-Stack Developer with a strong background in software engineering, web development, and AI. 
+I enjoy building impactful solutions, solving real-world problems, and continuously learning new technologies.
+
+---
+
+### 💡 What I'm Currently Focusing On
+
+- Designing and developing scalable full-stack web applications using modern frameworks.
+- Exploring AI and Machine Learning techniques for real-time and data-driven systems.
+- Learning cloud technologies and deployment strategies using Docker, Kubernetes, and CI/CD pipelines.
+- Improving system architecture and backend performance in high-traffic environments.
+
+
+---
+
+### 🚀 My Tech Stack
+
+**Programming:** C, C++, Java, Python, JavaScript, React, Node.js, Express  
+**Operating Systems:** Linux  
+**Databases:** MySQL, MongoDB  
+**Web Technologies:** HTML, CSS
+
+---
+
+### 📂 Featured Projects
+
+- [**Autonomous Drone Simulation System**](https://github.com/moataz189/real_time_system-project)  
+  A real-time drone system with object detection and autonomous navigation using YOLOv7 and ROS2.
+
+
+
+### 📫 Contact Me
+
+- Email: Moataz.ody44@gmail.com
+- LinkedIn: [Moataz Odeh](https://www.linkedin.com/in/moataz-odeh-428186309/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+
+
+---
+
+Thanks for visiting! 🙌
