@@ -35,6 +35,8 @@ I enjoy building impactful solutions, solving real-world problems, and continuou
 - [**Autonomous Drone Simulation System**](https://github.com/moataz189/real_time_system-project)  
   A real-time drone system with object detection and autonomous navigation using YOLOv7 and ROS2.
 
+ - [**ATIS - System Information Together All**](https://github.com/moataz189/All-Together-Information-System)
+ A distributed Java-based emergency support system built with a client-server architecture,enabling real-time help requests and community response.  
 
 
 ### 📫 Contact Me
